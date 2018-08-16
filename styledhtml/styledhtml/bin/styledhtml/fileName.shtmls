@@ -1,0 +1,25 @@
+html{
+	head{
+		title{
+			The Page
+		}
+	}
+	body{
+		center{
+			h1{
+				Welcome to the page
+			}
+			p{
+				Here you can find the page.
+			}
+		}
+		h2{
+			The Page is here
+		}
+		h1{
+			bold{
+				hi
+			}
+		}
+	}
+}
